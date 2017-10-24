@@ -9,5 +9,5 @@ If Download option is selected, the raindrops zip folder is downloaded to the lo
 ## Versioning
 Git is used for versioning
 
-##Authors
+## Authors
 Rachel Abaniwo
